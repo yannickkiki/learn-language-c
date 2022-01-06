@@ -6,6 +6,6 @@ int main()
     /*
      * Here is a longer comment
      */
-    printf("Hello my worldé!\n");
+    printf("Hello my world!\n");
     return 0;
 }
